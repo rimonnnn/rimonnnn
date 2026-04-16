@@ -1,35 +1,57 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Rimon Abdelmasih</h1>
+<h3 align="center">Junior Flutter Developer</h3>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+<p align="center">
+Building scalable mobile apps using Flutter | Passionate about clean architecture & problem solving
+</p>
+
+###
+
+<h3 align="left">🚀 About Me</h3>
+
+- 📱 Junior Flutter Developer  
+- 🎓 Computer Science Student (AI & Data Science)  
+- 💡 Focused on Flutter, State Management & API Integration  
+- 🚀 Currently improving my skills in Networking & Clean Architecture  
+
+###
+
+<h3 align="left">🛠 Tech Stack</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </div>
 
 ###
 
-<div align="center">
+<h3 align="left">📌 Featured Projects</h3>
+
+- 🍽 <b>Meals App</b>  
+  Local storage, state management, clean UI  
+  🔗 https://github.com/rimonnnn/meals-app-.git  
+
+- 📰 <b>News App</b>  
+  API integration, search, categories, navigation (GoRouter)  
+  🔗 https://github.com/rimonnnn/news_app.git  
+
+- 💰 <b>Finance App</b>  
+  UI design, authentication flow, navigation  
+  🔗 https://github.com/rimonnnn/financeApp.git  
+
+###
+
+<h3 align="left">🌐 Connect with me</h3>
+
+<div align="left">
   <a href="https://www.linkedin.com/in/rimon-abdelmasih/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
-###
