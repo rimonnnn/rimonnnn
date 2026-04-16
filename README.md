@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rimon Abdelmasih</h1>
 <h3 align="center">Junior Flutter Developer</h3>
 
+<p align="center">
+  🌐 <a href="https://rimonnnn.github.io/" target="_blank"><b>Portfolio</b></a> • 
+  💼 <a href="https://www.linkedin.com/in/rimon-abdelmasih/" target="_blank"><b>LinkedIn</b></a>
+</p>
+
 ###
 
 <p align="center">
