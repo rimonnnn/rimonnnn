@@ -1,62 +1,33 @@
-<h1 align="center">Hi 👋, I'm Rimon Abdelmasih</h1>
-<h3 align="center">Junior Flutter Developer</h3>
+# Hi, I'm Rimon Abdelmasih 👋
 
-<p align="center">
-  🌐 <a href="https://rimonnnn.github.io/" target="_blank"><b>Portfolio</b></a> • 
-  💼 <a href="https://www.linkedin.com/in/rimon-abdelmasih/" target="_blank"><b>LinkedIn</b></a>
-</p>
+Flutter Developer focused on building clean, responsive, and scalable mobile applications.
 
-###
+I'm a Computer Science student specializing in AI & Data Science, currently improving my Flutter skills through real-world projects using APIs, local storage, clean architecture, routing, and responsive UI.
 
-<p align="center">
-Building scalable mobile apps using Flutter | Passionate about clean architecture & problem solving
-</p>
+## 🚀 What I Do
+- Build cross-platform mobile apps using Flutter & Dart
+- Work with REST APIs using Dio
+- Structure apps using feature-first architecture
+- Implement local storage using SQLite / SharedPreferences
+- Build responsive UI from Figma designs
 
-###
+## 🛠 Tech Stack
+Flutter • Dart • Firebase • REST APIs • Dio • SQLite • SharedPreferences • Git • GitHub • Figma
 
-<h3 align="left">🚀 About Me</h3>
+## 📌 Featured Projects
 
-- 📱 Junior Flutter Developer  
-- 🎓 Computer Science Student (AI & Data Science)  
-- 💡 Focused on Flutter, State Management & API Integration  
-- 🚀 Currently improving my skills in Networking & Clean Architecture  
+### News App
+A Flutter news application that fetches articles from an external API with clean project structure and reusable components.
 
-###
+### Meals App
+A recipe management app using SQLite, SharedPreferences, GoRouter, and responsive UI.
 
-<h3 align="left">🛠 Tech Stack</h3>
+### Finance App
+A modern finance UI app focused on authentication flow, onboarding, responsive screens, and feature-first architecture.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</div>
+## 🎯 Currently
+Looking for a Flutter Internship / Junior Flutter Developer opportunity.
 
-###
-
-<h3 align="left">📌 Featured Projects</h3>
-
-- 🍽 <b>Meals App</b>  
-  Local storage, state management, clean UI  
-  🔗 https://github.com/rimonnnn/meals-app-.git  
-
-- 📰 <b>News App</b>  
-  API integration, search, categories, navigation (GoRouter)  
-  🔗 https://github.com/rimonnnn/news_app.git  
-
-- 💰 <b>Finance App</b>  
-  UI design, authentication flow, navigation  
-  🔗 https://github.com/rimonnnn/financeApp.git  
-
-###
-
-<h3 align="left">🌐 Connect with me</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/rimon-abdelmasih/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+## 📫 Connect With Me
+- Portfolio: https://rimonnnn.github.io/
+- LinkedIn: https://www.linkedin.com/in/rimon-abdelmasih
