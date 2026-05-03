@@ -1,33 +1,55 @@
 # Hi, I'm Rimon Abdelmasih 👋
 
-Flutter Developer focused on building clean, responsive, and scalable mobile applications.
-
-I'm a Computer Science student specializing in AI & Data Science, currently improving my Flutter skills through real-world projects using APIs, local storage, clean architecture, routing, and responsive UI.
+Flutter Developer building mobile apps with clean UI, API integration, local storage, routing, and maintainable project structure.
 
 ## 🚀 What I Do
-- Build cross-platform mobile apps using Flutter & Dart
-- Work with REST APIs using Dio
-- Structure apps using feature-first architecture
-- Implement local storage using SQLite / SharedPreferences
-- Build responsive UI from Figma designs
+
+- Build cross-platform mobile applications using Flutter & Dart
+- Convert UI designs into responsive Flutter screens
+- Integrate REST APIs using Dio
+- Handle local storage with SQLite and SharedPreferences
+- Structure Flutter projects using feature-first architecture
+- Work with routing, authentication flows, and reusable widgets
 
 ## 🛠 Tech Stack
-Flutter • Dart • Firebase • REST APIs • Dio • SQLite • SharedPreferences • Git • GitHub • Figma
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45" alt="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+</p>
 
 ## 📌 Featured Projects
 
-### News App
-A Flutter news application that fetches articles from an external API with clean project structure and reusable components.
+### 📰 News App
+Flutter news application using REST API, Dio, clean feature-based structure, and reusable components.
 
-### Meals App
-A recipe management app using SQLite, SharedPreferences, GoRouter, and responsive UI.
+### 🍽 Meals App
+Flutter meals application using local storage, SQLite, SharedPreferences, GoRouter, and responsive UI.
 
-### Finance App
-A modern finance UI app focused on authentication flow, onboarding, responsive screens, and feature-first architecture.
+### 💰 Finance App
+Modern Flutter finance UI app with onboarding screens, authentication flow, responsive design, and clean structure.
 
 ## 🎯 Currently
+
 Looking for a Flutter Internship / Junior Flutter Developer opportunity.
 
 ## 📫 Connect With Me
-- Portfolio: https://rimonnnn.github.io/
-- LinkedIn: https://www.linkedin.com/in/rimon-abdelmasih
+
+<p align="left">
+  <a href="https://rimonnnn.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rimon-abdelmasih" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/rimonnnn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
