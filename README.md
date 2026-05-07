@@ -10,7 +10,7 @@ I build modern cross-platform mobile applications using Flutter with clean UI, A
 
 <p align="center">
   <a href="https://rimonnnn.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rimon-abdelmasih" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -29,21 +29,8 @@ I build modern cross-platform mobile applications using Flutter with clean UI, A
 - Comfortable with REST API integration using Dio.
 - Working with State Management using Bloc/Cubit and Provider.
 - Building apps with feature-based architecture and reusable components.
-- Interested in writing cleaner code and improving app performance.
-- Currently looking for a Flutter Internship / Junior Flutter Developer opportunity.
-
----
-
-## 🧠 What I Do
-
-- Build cross-platform mobile applications using Flutter & Dart.
-- Create responsive and adaptive Flutter UI.
-- Integrate REST APIs using Dio.
-- Manage app state using Bloc/Cubit and Provider.
-- Handle local storage using SQLite and SharedPreferences.
-- Work with routing, authentication flows, and reusable widgets.
-- Organize projects using clean feature-based structure.
-- Improve UI/UX and app maintainability.
+- Currently improving Flutter architecture, Firebase, and real-world app development.
+- Looking for a Flutter Internship / Junior Flutter Developer opportunity.
 
 ---
 
@@ -52,7 +39,9 @@ I build modern cross-platform mobile applications using Flutter with clean UI, A
 ### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### State Management
@@ -62,27 +51,32 @@ I build modern cross-platform mobile applications using Flutter with clean UI, A
   <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-### APIs & Packages
+### APIs & Storage
 
 <p>
   <img src="https://img.shields.io/badge/Dio-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+### Flutter Packages
+
+<p>
   <img src="https://img.shields.io/badge/GoRouter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Easy%20Localization-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cached%20Network%20Image-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/ScreenUtil-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,figma" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -133,22 +127,20 @@ A modern finance UI application with onboarding screens, authentication flow, re
 
 ## 📌 Current Focus
 
-- Improving Flutter architecture and clean code skills.
-- Building stronger real-world Flutter projects.
-- Practicing API integration, Firebase, and state management.
-- Preparing for Flutter Internship / Junior Flutter Developer roles.
+- Flutter Architecture
+- Bloc/Cubit & Provider
+- Firebase Authentication
+- REST API Integration
+- Clean Code
+- Real-world Flutter Projects
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimonnnn&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimonnnn&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimonnnn&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rimonnnn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimonnnn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 </p>
 
 ---
@@ -157,7 +149,7 @@ A modern finance UI application with onboarding screens, authentication flow, re
 
 <p align="center">
   <a href="https://rimonnnn.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rimonnnn.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-rimonnnn.github.io-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rimon-abdelmasih" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rimon%20Abdelmasih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
