@@ -9,6 +9,10 @@ I build modern cross-platform mobile applications using Flutter with clean UI, A
 </p>
 
 <p align="center">
+Currently building real-world Flutter apps and improving my skills in clean architecture, Firebase, REST APIs, and state management.
+</p>
+
+<p align="center">
   <a href="https://rimonnnn.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
@@ -39,7 +43,7 @@ I build modern cross-platform mobile applications using Flutter with clean UI, A
 ### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
 ### State Management
@@ -52,7 +56,7 @@ I build modern cross-platform mobile applications using Flutter with clean UI, A
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
