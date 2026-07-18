@@ -22,6 +22,7 @@ I build modern, scalable cross-platform mobile applications with Flutter — fol
 </p>
 
 </div>
+![Profile Views](https://komarev.com/ghpvc/?username=rimonnnn&color=2563EB&style=for-the-badge)
 
 ---
 
