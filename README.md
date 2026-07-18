@@ -23,7 +23,7 @@ I build modern, scalable cross-platform mobile applications with Flutter — fol
 
 </div>
 
-</p>
+</p> align="center"
 
 
 
